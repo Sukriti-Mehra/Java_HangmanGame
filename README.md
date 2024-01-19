@@ -1,1 +1,1 @@
-# Java_HangmanGame
+This Hangman game, developed in Java, offers a classic word-guessing experience. Features include single and two-player modes, ASCII art hangman graphics, and word/number selection from external files. Users can enjoy a simple console-based interface with an option to continue playing after each round. The code emphasizes readability and includes exception handling for input validation and file operations. Have fun playing!
